@@ -1,1 +1,1 @@
-#Tic Tac Toe agme using JavaScript
+Tic Tac Toe game using JavaScript
